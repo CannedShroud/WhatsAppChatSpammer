@@ -2,7 +2,7 @@
 
 
 
- Will need chromedriver.exe in directpry: 'C:'
+ Will need chromedriver.exe in directory 'C:'
  
  
  
